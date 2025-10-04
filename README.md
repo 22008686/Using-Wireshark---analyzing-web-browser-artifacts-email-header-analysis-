@@ -52,7 +52,7 @@ flowchart TD
     D --> F[Save Findings]
     E --> F[Save Findings]
     F --> G[Generate Digital Forensic Report]
-
+```
 ## A.Capturing Traffic in Wireshark
 1.Open Wireshark and start capturing on the active interface (Wi- Fi/Ethernet).
 
@@ -77,8 +77,6 @@ Analyze DNS Queries: o Filter: dns o Reveal domains the browser tried to resolve
 <img width="1913" height="561" alt="Screenshot 2025-10-04 134144" src="https://github.com/user-attachments/assets/a2f6e63e-29bd-49d4-83a2-110a1103cd36" />
 5.Extract Email Header Fields: o Analyze From, To, Subject, Date, Message-ID, and relay servers used in sending the email.
 <img width="1914" height="935" alt="Screenshot 2025-10-04 134427" src="https://github.com/user-attachments/assets/0f54fc26-ffee-420c-93a9-6fa44277a100" />
-
-```
 
 ## OUTPUT:
 Captured Web Activity and Email Header Information
